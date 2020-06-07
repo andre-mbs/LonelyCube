@@ -1,6 +1,7 @@
 # LonelyCube-WebGL
 ## Description
 WebGL 3D game, inspired on Chrome's Lonely T-Rex (Visual Computation course 1st project)
+
 Check "Report" folder for more details about this project
 
 ## How to play?
